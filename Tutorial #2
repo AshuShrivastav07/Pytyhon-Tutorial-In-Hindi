@@ -1,0 +1,22 @@
+import math
+import sys
+import keyword
+
+#print(keyword.kwlist)
+
+#True="Rahul"
+#print(True)
+
+#print(sys.version)
+
+# + - * / % // **
+
+#print(5+5)
+#print(7%2)
+#print(8//2)
+#print(5**2)
+
+#print(int.__doc__)
+#print(abs(-2.5456))
+
+#hello world how r u
