@@ -1,0 +1,39 @@
+#What is String?
+#String is a collaction of unicode character.
+
+#Accessing String
+
+#String Operation
+#-->isalpha()
+#-->isdigit()
+#-->isalnum()
+#-->isupper()
+#-->islower()
+#-->startwith()
+#-->endith()
+#-->upper()
+#-->lower()
+#-->capitalize()
+#-->swapcase()
+#-->find()
+#-->istrip()
+#-->rstrip()
+#-->split()
+a="123456"
+s="           Helloworld                                "
+#  0123456789
+#print(s[start:end])
+#print(s[0:5])
+#print(s[6:11])
+#print(s[0:4])
+#print(s.isalpha())
+#print(a.isdigit())
+#print(s.isupper())
+#print(s.startswith('H'))
+#print(s.endswith("d"))
+#print(s.upper())
+#print(s.lower())
+#print(s.swapcase())
+#print(s.find("d"))
+#print(s.split(" "))
+#print(s.lstrip())
